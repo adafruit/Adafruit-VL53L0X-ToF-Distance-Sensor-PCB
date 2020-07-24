@@ -1,5 +1,6 @@
 # PCB files for the Adafruit VL53L0X ToF Distance Sensor
 
+<a href="http://www.adafruit.com/products/3317"><img src="assets/3317.jpg?raw=true" width="500px"><br/></a>
 <a href="http://www.adafruit.com/products/3317"><img src="assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
 __Format is EagleCAD schematic and board layout__
